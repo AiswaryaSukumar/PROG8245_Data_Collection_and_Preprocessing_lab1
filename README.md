@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PROG8245 Lab 2 - Data Collection and Pre-processing
 
 This is my Lab 2 for PROG8245. It’s a Jupyter Notebook where I work with a fake e-commerce dataset. I load a CSV, clean up messy data, add some new columns, and make a data dictionary. The point is to practice data engineering tasks like cleaning and analyzing.
@@ -12,3 +13,6 @@ This is my Lab 2 for PROG8245. It’s a Jupyter Notebook where I work with a fak
 - Main data: Fake CSV file (`Data/Ecommerce2025.csv`) I made using Faker.
 - Extra data: Made-up coupon details from a website (https://example.com/coupon_info).
 
+=======
+# PROG8245_Data_Collection_and_Preprocessing_lab1
+>>>>>>> 0a3f6d5555f9f4dcec28f68aa00a6a0a23cddf2a
