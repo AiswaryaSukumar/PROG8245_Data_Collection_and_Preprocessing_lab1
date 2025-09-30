@@ -1,0 +1,501 @@
+Date,CustomerID,Product,Price,Quantity,Coupon,Shipping_city
+2019-11-07,473,VacuumCleaner,1598.86,1,WELCOME15,Hamilton
+2018-10-08,20,Sofa,1407.86,3,save-10,Vancouver
+2018-11-30,406,Vacuum Cleaner,622.09,7,HOLIDAY20,Kitchener
+2019-05-31,69,Coffee Maker,897.76,1,,Montreal
+2022-06-20,329,Coffee Maker,856.33,6,SAVE10,Winnipeg
+2019-06-12,108,Dining Table,1006.23,6,SPRING5,Vancouver
+2017-09-15,76,Dining Table,1073.43,2,SPRING5,Toronto
+2017-05-20,391,Desk Chair,1344.21,6,WELCOME15,Toronto
+2021-12-08,323,Air Conditioner,1175.55,3,HOLIDAY20,Winnipeg
+2024-03-22,252,Microwave,1118.55,5,SPRING5,Kitchener
+2019-04-16,247,Blender,1493.55,5,WELCOME15,Hamilton
+2019-09-04,258,Bookshelf,1062.29,3,,QuebecCity
+2016-05-21,249,Air Conditioner,1009.8,7,HOLIDAY20,Edmonton
+2018-10-18,184,Bookshelf,537.43,6,WELCOME15,Ottawa
+2021-11-11,454,Dining Table,1533.78,5,FREESHIP,Kitchener
+2024-03-12,24,Bookshelf,1474.54,4,FREESHIP,QuebecCity
+2024-03-09,44,Air Conditioner,1753.5,5,,Montreal
+2020-01-27,81,Bookshelf,1680.11,5,WELCOME15,QuebecCity
+2022-05-25,451,Sofa,720.08,2,SPRING5,Calgary
+2016-11-27,250,Desk Chair,1001.56,6,SPRING5,Kitchener
+2021-02-10,265,Vacuum Cleaner,1870.75,2,SAVE10,Hamilton
+2016-06-27,491,Air Conditioner,1927.27,5,,Ottawa
+2015-10-20,8,Desk Chair,1343.06,1,,QuebecCity
+2018-04-17,461,Coffee Maker,1703.61,7,save-10,Toronto
+2019-05-01,227,Sofa,538.56,3,HOLIDAY20,Hamilton
+2022-07-28,86,VacuumCleaner,716.58,2,FREESHIP,Edmonton
+2020-12-30,348,Refrigerator,925.57,5,,Edmonton
+2017-12-26,259,Dining Table,1835.13,6,,Kitchener
+2023-07-27,346,Coffee Maker,1369.87,3,SAVE10,Ottawa
+2016-07-21,332,Desk Chair,1458.47,5,,Ottawa
+2020-04-13,129,Blender,1103.21,3,HOLIDAY20,Hamilton
+2020-06-08,444,Sofa,1233.88,3,save-10,Edmonton
+2017-11-01,136,Dining Table,1667.87,5,HOLIDAY20,Calgary
+2016-05-11,58,Vacuum Cleaner,859.36,2,HOLIDAY20,Ottawa
+2023-08-12,261,VacuumCleaner,1763.19,5,WELCOME15,Winnipeg
+2017-12-16,410,VacuumCleaner,763.46,6,SPRING5,Edmonton
+2022-11-14,113,Dining Table,1165.53,6,SPRING5,Ottawa
+2017-12-13,191,Sofa,958.85,2,save-10,Winnipeg
+2016-08-23,459,Vacuum Cleaner,1776.45,4,SAVE10,Toronto
+2023-01-14,379,Bookshelf,997.76,1,SPRING5,Kitchener
+2016-05-16,188,Vacuum Cleaner,1534.76,3,,Calgary
+2016-08-10,196,Sofa,1015.43,7,save-10,Edmonton
+2020-07-21,435,Refrigerator,1322.85,6,,Edmonton
+2022-06-25,375,Desk Chair,1210.67,1,save-10,Kitchener
+2022-06-08,372,Microwave,931.86,6,SAVE10,Montreal
+2018-08-29,466,Dining Table,1578.65,3,SPRING5,Hamilton
+2019-06-03,60,Dining Table,1970.48,1,,Winnipeg
+2016-08-19,306,Refrigerator,1992.96,1,,Toronto
+2021-10-08,3,Desk Chair,1689.14,3,SAVE10,Ottawa
+2017-01-13,77,Refrigerator,1138.13,4,HOLIDAY20,Winnipeg
+2016-11-15,371,Sofa,1983.67,3,SPRING5,Winnipeg
+2022-05-01,60,Refrigerator,1754.42,6,save-10,Vancouver
+2018-01-13,457,Coffee Maker,1403.93,1,save-10,Vancouver
+2017-04-15,365,Sofa,1723.9,3,FREESHIP,Winnipeg
+2023-09-01,50,Desk Chair,1027.63,4,SPRING5,Calgary
+2019-09-26,210,Desk Chair,1854.87,6,,Winnipeg
+2023-03-06,454,Vacuum Cleaner,765.1,2,HOLIDAY20,Kitchener
+2015-11-06,24,Microwave,664.65,5,FREESHIP,Ottawa
+2019-12-07,359,Blender,1390.53,5,HOLIDAY20,Winnipeg
+2023-10-28,67,Vacuum Cleaner,1565.43,6,save-10,Edmonton
+2016-05-28,346,Sofa,503.3,3,HOLIDAY20,Hamilton
+2023-05-03,240,Dining Table,1299.65,1,SAVE10,Hamilton
+2023-09-20,130,Refrigerator,1804.29,6,WELCOME15,Edmonton
+2017-02-14,87,Bookshelf,1879.09,1,,Montreal
+2019-11-20,339,Desk Chair,1571.12,6,FREESHIP,Ottawa
+2019-01-17,304,Desk Chair,1299.39,4,save-10,Vancouver
+2020-12-17,276,Microwave,1811.07,5,save-10,Hamilton
+2023-08-27,366,Coffee Maker,1450.26,1,,Toronto
+2019-04-08,302,Bookshelf,877.77,1,WELCOME15,Winnipeg
+2021-08-01,62,Coffee Maker,914.16,7,,Winnipeg
+2015-08-23,1,Dining Table,1463.06,2,save-10,Kitchener
+2021-08-01,67,Vacuum Cleaner,1775.77,2,HOLIDAY20,Vancouver
+2020-02-15,282,Desk Chair,1738.43,6,FREESHIP,Montreal
+2015-01-25,4,Sofa,1084.69,7,SAVE10,Montreal
+2022-12-15,484,Blender,1614.68,5,SAVE10,Ottawa
+2023-06-06,223,Blender,1730.12,2,SPRING5,Montreal
+2021-06-14,130,Refrigerator,1257.36,4,,Toronto
+2017-06-10,308,Microwave,1864.98,1,SAVE10,Kitchener
+2021-09-27,340,Air Conditioner,1424.32,6,save-10,Toronto
+2024-04-19,190,Microwave,1069.69,1,HOLIDAY20,Winnipeg
+2015-03-01,54,Dining Table,1775.41,6,FREESHIP,Toronto
+2023-12-10,355,Refrigerator,1204.42,6,,Montreal
+2016-10-25,354,Air Conditioner,976.39,4,HOLIDAY20,QuebecCity
+2016-08-24,244,Dining Table,1523.06,6,HOLIDAY20,Calgary
+2017-04-14,316,Air Conditioner,1002.79,3,SPRING5,Hamilton
+2018-12-29,371,Dining Table,1432.79,1,SPRING5,Calgary
+2017-10-14,31,Refrigerator,1889.78,3,save-10,Montreal
+2023-11-15,320,Desk Chair,1725.72,5,SPRING5,Edmonton
+2022-09-24,302,Bookshelf,1417.74,5,WELCOME15,Hamilton
+2024-04-24,17,Air Conditioner,625.07,4,save-10,QuebecCity
+2018-05-12,350,Dining Table,597.96,1,WELCOME15,Edmonton
+2016-01-19,103,Air Conditioner,1591.88,3,save-10,Calgary
+2020-04-01,184,VacuumCleaner,1243.6,4,WELCOME15,Toronto
+2020-01-14,475,Blender,513.93,3,save-10,Kitchener
+2015-03-18,118,Blender,698.49,5,HOLIDAY20,Edmonton
+2015-05-24,426,Coffee Maker,980.35,4,WELCOME15,Winnipeg
+2016-09-23,37,Microwave,1424.37,2,,Montreal
+2015-09-28,287,Coffee Maker,1767.97,1,save-10,Ottawa
+2019-03-20,187,Microwave,1987.69,3,,Edmonton
+2018-08-24,51,Coffee Maker,1340.0,2,WELCOME15,Edmonton
+2015-01-17,459,Sofa,1894.92,7,save-10,Toronto
+2019-01-18,26,Desk Chair,1185.6,3,SAVE10,Winnipeg
+2023-08-07,23,Sofa,1608.4,5,WELCOME15,Toronto
+2023-06-15,55,Desk Chair,933.12,1,SPRING5,Edmonton
+2018-11-28,241,Vacuum Cleaner,723.0,7,,Winnipeg
+2023-04-12,197,Desk Chair,1182.23,3,FREESHIP,Kitchener
+2022-04-04,105,Microwave,925.47,6,FREESHIP,Hamilton
+2016-09-10,384,Dining Table,1550.28,7,SPRING5,QuebecCity
+2021-01-13,120,Sofa,1381.54,6,HOLIDAY20,Edmonton
+2017-01-12,236,Bookshelf,642.16,1,SAVE10,Montreal
+2017-07-07,230,Air Conditioner,1326.84,2,,Ottawa
+2020-09-22,19,Sofa,1803.11,2,WELCOME15,Winnipeg
+2019-12-24,48,Refrigerator,1472.51,2,FREESHIP,Kitchener
+2020-01-29,339,Air Conditioner,769.09,5,save-10,Toronto
+2023-07-29,389,Air Conditioner,1280.55,4,HOLIDAY20,Edmonton
+2015-02-12,108,Bookshelf,1819.04,6,SAVE10,Calgary
+2023-02-22,96,Coffee Maker,921.75,2,WELCOME15,Hamilton
+2018-08-03,302,Desk Chair,667.45,7,,Hamilton
+2024-02-11,91,Blender,621.73,4,FREESHIP,Ottawa
+2022-02-11,148,Blender,1512.45,6,HOLIDAY20,Calgary
+2016-12-18,227,Air Conditioner,1930.89,1,SPRING5,Montreal
+2022-07-04,9,Refrigerator,830.15,6,SAVE10,QuebecCity
+2021-09-01,268,Bookshelf,1106.41,6,SPRING5,Hamilton
+2019-04-16,377,Air Conditioner,526.89,4,save-10,Kitchener
+2022-06-16,67,Air Conditioner,1224.56,1,,Winnipeg
+2018-02-19,268,Bookshelf,954.11,3,save-10,Ottawa
+2017-04-17,485,Sofa,1371.73,1,SPRING5,Calgary
+2017-06-01,273,Refrigerator,1174.69,4,SAVE10,Vancouver
+2018-10-03,87,Vacuum Cleaner,1497.64,3,HOLIDAY20,Calgary
+2023-10-19,383,Desk Chair,816.92,5,save-10,QuebecCity
+2019-08-18,126,Desk Chair,1200.13,6,,Winnipeg
+2023-05-06,304,Bookshelf,745.23,7,SAVE10,Montreal
+2021-03-31,301,Sofa,1813.61,3,save-10,Vancouver
+2023-05-23,301,Sofa,772.84,2,WELCOME15,Montreal
+2021-12-29,94,Microwave,684.22,1,SAVE10,Winnipeg
+2022-04-18,481,VacuumCleaner,1942.03,1,HOLIDAY20,Montreal
+2015-05-27,74,Blender,1161.14,7,FREESHIP,Calgary
+2018-05-12,135,Desk Chair,755.96,1,SAVE10,Vancouver
+2016-11-14,54,Blender,1631.73,3,,Calgary
+2023-03-24,160,Bookshelf,521.21,5,WELCOME15,Toronto
+2020-06-03,78,Microwave,1523.63,2,SAVE10,Winnipeg
+2023-10-30,500,Microwave,566.3,5,SAVE10,Montreal
+2021-01-09,387,Blender,1086.43,4,WELCOME15,Kitchener
+2021-08-17,68,Refrigerator,1093.31,2,SPRING5,Kitchener
+2020-04-24,281,Air Conditioner,735.25,2,SPRING5,Toronto
+2020-12-27,398,Microwave,1371.79,4,HOLIDAY20,Calgary
+2018-09-14,91,Desk Chair,1643.37,2,FREESHIP,Hamilton
+2017-05-18,188,Air Conditioner,815.31,2,SAVE10,Kitchener
+2019-08-17,82,Refrigerator,1412.63,7,FREESHIP,Calgary
+2019-07-02,196,Microwave,1220.58,1,,Toronto
+2024-03-05,499,Blender,1403.74,5,FREESHIP,Kitchener
+2018-07-24,131,Desk Chair,1365.39,7,WELCOME15,Montreal
+2021-07-06,494,Refrigerator,1877.55,5,save-10,Ottawa
+2019-08-30,4,Vacuum Cleaner,1762.12,1,,Hamilton
+2018-06-03,450,Blender,1566.03,4,WELCOME15,Montreal
+2016-04-14,10,Refrigerator,518.91,7,SAVE10,Calgary
+2024-03-30,339,Sofa,570.72,2,save-10,Montreal
+2018-02-05,54,Blender,1101.79,1,SAVE10,Kitchener
+2023-09-13,21,Sofa,1150.29,1,HOLIDAY20,Ottawa
+2019-01-07,240,VacuumCleaner,598.96,4,SAVE10,QuebecCity
+2024-01-02,353,Coffee Maker,1355.36,6,FREESHIP,Calgary
+2016-02-24,5,Refrigerator,898.39,6,,QuebecCity
+2023-10-21,182,Blender,1796.5,3,SAVE10,Calgary
+2023-01-21,311,Refrigerator,1494.5,6,FREESHIP,Vancouver
+2018-07-10,476,Blender,1089.24,2,FREESHIP,Edmonton
+2015-09-03,375,Vacuum Cleaner,564.6,7,save-10,Winnipeg
+2015-01-05,132,Air Conditioner,931.07,5,WELCOME15,Montreal
+2015-12-16,216,Bookshelf,1416.86,3,SAVE10,Edmonton
+2023-10-27,229,Sofa,1155.68,2,FREESHIP,Hamilton
+2022-01-25,77,Vacuum Cleaner,1376.1,1,,Toronto
+2017-02-04,169,Dining Table,683.02,7,save-10,Kitchener
+2016-01-07,291,Sofa,1954.8,2,,Montreal
+2019-01-08,148,Bookshelf,868.59,1,SAVE10,QuebecCity
+2023-08-22,17,Coffee Maker,632.73,6,,Vancouver
+2020-07-16,428,Sofa,554.94,2,save-10,Edmonton
+2018-05-02,83,Bookshelf,1801.88,4,WELCOME15,Kitchener
+2024-03-28,491,Refrigerator,1164.93,5,WELCOME15,Kitchener
+2021-06-30,343,Microwave,1891.51,6,SAVE10,Toronto
+2015-04-21,386,Air Conditioner,767.21,5,SAVE10,QuebecCity
+2022-01-09,228,Bookshelf,1117.96,7,save-10,QuebecCity
+2016-09-21,93,Air Conditioner,1639.6,1,HOLIDAY20,Kitchener
+2020-05-03,212,Desk Chair,690.34,7,save-10,Winnipeg
+2016-01-11,351,VacuumCleaner,505.48,2,WELCOME15,Winnipeg
+2019-08-24,55,Desk Chair,1188.21,2,FREESHIP,Hamilton
+2017-03-12,121,Sofa,785.66,7,HOLIDAY20,Winnipeg
+2015-05-29,382,Sofa,1422.89,2,save-10,QuebecCity
+2020-03-06,122,Blender,1910.74,7,HOLIDAY20,Toronto
+2019-11-26,289,Dining Table,1518.29,6,save-10,Vancouver
+2019-05-18,396,Sofa,1080.57,1,SPRING5,Edmonton
+2017-12-23,66,Dining Table,524.23,2,save-10,Calgary
+2023-08-28,193,Bookshelf,598.99,3,save-10,Vancouver
+2015-10-22,497,VacuumCleaner,1961.15,3,SPRING5,Kitchener
+2017-04-12,157,VacuumCleaner,1931.38,6,HOLIDAY20,Winnipeg
+2017-03-04,389,Vacuum Cleaner,1200.39,4,,QuebecCity
+2023-12-30,413,Refrigerator,1936.81,3,save-10,Montreal
+2015-03-04,189,Blender,1677.07,5,WELCOME15,QuebecCity
+2017-09-12,498,Microwave,628.58,4,save-10,Edmonton
+2016-01-26,480,Desk Chair,1025.23,3,,Edmonton
+2019-01-09,39,Bookshelf,1583.56,4,SAVE10,Vancouver
+2020-11-17,338,Dining Table,1498.37,2,,Ottawa
+2018-08-16,132,VacuumCleaner,986.58,4,FREESHIP,Winnipeg
+2018-04-13,178,Air Conditioner,1830.06,6,WELCOME15,Edmonton
+2022-01-16,38,VacuumCleaner,880.8,6,FREESHIP,Ottawa
+2017-05-19,260,VacuumCleaner,520.37,2,save-10,QuebecCity
+2020-07-20,118,Desk Chair,1717.63,2,HOLIDAY20,Calgary
+2017-11-01,214,Desk Chair,1545.9,2,WELCOME15,Hamilton
+2016-08-21,311,VacuumCleaner,1607.44,3,,QuebecCity
+2019-06-18,134,Microwave,1212.82,3,FREESHIP,Edmonton
+2020-06-27,476,Microwave,1200.59,6,FREESHIP,Vancouver
+2018-01-28,489,Dining Table,1841.45,3,,Calgary
+2019-11-05,427,Vacuum Cleaner,1898.92,2,SAVE10,Kitchener
+2020-06-27,34,Desk Chair,1920.65,2,,Ottawa
+2018-02-05,167,Desk Chair,1387.33,2,,Hamilton
+2023-11-20,42,Microwave,1390.92,1,WELCOME15,Calgary
+2023-04-03,35,Desk Chair,1426.52,7,WELCOME15,Vancouver
+2015-11-16,18,Desk Chair,699.75,4,HOLIDAY20,Edmonton
+2023-09-22,52,Blender,1449.77,7,,Hamilton
+2017-10-27,35,Coffee Maker,1266.15,2,,Ottawa
+2017-11-23,264,Coffee Maker,1169.76,1,,Vancouver
+2021-01-17,136,Desk Chair,1840.54,6,WELCOME15,Winnipeg
+2023-07-07,488,Sofa,1894.07,5,SPRING5,Toronto
+2016-03-24,196,Air Conditioner,1881.1,5,SPRING5,Vancouver
+2023-07-11,17,VacuumCleaner,628.53,4,FREESHIP,Montreal
+2021-06-03,26,Desk Chair,1103.85,6,SPRING5,Vancouver
+2020-04-15,15,Desk Chair,870.38,7,,Edmonton
+2021-12-08,121,Air Conditioner,1900.28,6,HOLIDAY20,Winnipeg
+2020-12-23,187,Desk Chair,1811.63,1,WELCOME15,Hamilton
+2017-07-15,282,Dining Table,1079.98,2,FREESHIP,Edmonton
+2021-02-07,132,Vacuum Cleaner,1976.82,3,FREESHIP,Winnipeg
+2015-02-12,195,Dining Table,810.84,3,save-10,Edmonton
+2015-11-22,94,VacuumCleaner,1343.85,5,SAVE10,Vancouver
+2021-01-31,223,Blender,504.85,5,SPRING5,Montreal
+2023-08-22,77,Refrigerator,1651.77,4,SAVE10,Winnipeg
+2022-05-18,326,Sofa,1856.69,2,,QuebecCity
+2016-05-22,447,Coffee Maker,751.95,5,FREESHIP,Edmonton
+2015-05-22,394,Vacuum Cleaner,1926.67,6,,Ottawa
+2018-04-16,289,Vacuum Cleaner,1502.48,2,WELCOME15,Calgary
+2016-07-19,366,Coffee Maker,1138.8,3,FREESHIP,Montreal
+2015-02-14,348,Vacuum Cleaner,710.67,3,HOLIDAY20,Toronto
+2018-08-24,435,Blender,1735.21,5,WELCOME15,Montreal
+2017-06-18,17,Desk Chair,530.56,5,,Hamilton
+2022-05-11,312,Coffee Maker,1146.17,3,HOLIDAY20,Winnipeg
+2019-03-24,222,Desk Chair,1566.89,2,FREESHIP,QuebecCity
+2021-09-27,31,Dining Table,925.57,6,,Kitchener
+2015-01-14,490,Dining Table,1931.27,1,SAVE10,Calgary
+2015-01-31,449,Microwave,1960.05,6,HOLIDAY20,Kitchener
+2022-11-06,19,Coffee Maker,885.43,3,SPRING5,Ottawa
+2019-08-31,329,Coffee Maker,587.28,5,save-10,Montreal
+2017-02-24,249,Desk Chair,1122.85,2,,Hamilton
+2024-02-14,301,VacuumCleaner,717.66,3,HOLIDAY20,Kitchener
+2019-05-22,114,VacuumCleaner,1824.19,6,save-10,QuebecCity
+2019-05-15,328,VacuumCleaner,1282.61,5,SAVE10,Hamilton
+2019-08-06,340,Bookshelf,602.36,5,FREESHIP,QuebecCity
+2023-02-07,77,VacuumCleaner,571.55,6,,Vancouver
+2020-08-04,475,VacuumCleaner,550.98,4,FREESHIP,Vancouver
+2019-01-24,487,Desk Chair,1418.88,5,SPRING5,Edmonton
+2016-04-17,143,Coffee Maker,1932.59,6,FREESHIP,Calgary
+2019-09-03,119,Desk Chair,1694.65,4,WELCOME15,Toronto
+2024-02-12,470,Microwave,1742.7,3,,Montreal
+2017-07-01,9,Microwave,1783.23,4,,Kitchener
+2019-12-13,359,Refrigerator,1676.55,7,,Hamilton
+2017-10-22,274,Dining Table,1555.4,6,SPRING5,Hamilton
+2020-02-22,290,Air Conditioner,1979.39,3,save-10,Vancouver
+2018-10-25,132,Coffee Maker,1319.49,3,,QuebecCity
+2023-04-14,338,Dining Table,1169.99,2,WELCOME15,QuebecCity
+2016-05-16,91,Microwave,1701.22,4,save-10,Montreal
+2016-07-08,52,Desk Chair,511.27,4,WELCOME15,Ottawa
+2017-03-26,239,Bookshelf,562.82,3,FREESHIP,QuebecCity
+2015-04-17,84,Air Conditioner,1278.22,6,save-10,Winnipeg
+2023-09-26,325,Coffee Maker,1194.68,5,,Vancouver
+2020-02-11,121,Refrigerator,1444.98,7,FREESHIP,QuebecCity
+2016-03-16,4,Coffee Maker,522.09,3,,Calgary
+2016-12-08,209,VacuumCleaner,1376.51,6,WELCOME15,QuebecCity
+2022-09-25,186,Vacuum Cleaner,1063.97,3,WELCOME15,Montreal
+2020-08-04,237,Dining Table,1902.37,2,,Ottawa
+2023-12-23,469,Sofa,1877.22,2,HOLIDAY20,Kitchener
+2022-01-21,352,Refrigerator,953.81,7,HOLIDAY20,Toronto
+2022-05-01,8,Refrigerator,726.06,1,HOLIDAY20,Kitchener
+2017-04-15,165,Bookshelf,567.92,6,save-10,Hamilton
+2019-05-19,160,Bookshelf,1887.06,5,FREESHIP,Winnipeg
+2020-05-31,436,Air Conditioner,1951.12,2,SPRING5,Edmonton
+2019-10-21,422,Dining Table,1628.96,1,SPRING5,Edmonton
+2019-02-25,157,Refrigerator,698.85,2,WELCOME15,Hamilton
+2019-07-24,222,Microwave,1392.14,1,SAVE10,Kitchener
+2020-07-04,205,Desk Chair,564.97,3,HOLIDAY20,QuebecCity
+2018-08-30,258,Blender,1657.58,7,WELCOME15,Edmonton
+2018-10-07,488,Blender,1646.98,1,SPRING5,Montreal
+2021-10-09,443,Coffee Maker,985.86,3,FREESHIP,Montreal
+2023-07-25,58,Air Conditioner,1070.36,7,HOLIDAY20,Vancouver
+2016-01-08,447,Vacuum Cleaner,809.36,2,HOLIDAY20,Toronto
+2020-11-14,250,Bookshelf,742.13,3,WELCOME15,Winnipeg
+2023-04-01,469,Refrigerator,913.7,3,HOLIDAY20,Ottawa
+2017-08-21,498,Air Conditioner,1957.94,4,,Edmonton
+2015-06-12,116,Blender,1959.49,6,SPRING5,Ottawa
+2019-09-07,118,Bookshelf,590.39,3,,Vancouver
+2020-11-27,494,Dining Table,660.79,3,HOLIDAY20,Kitchener
+2015-04-18,165,Microwave,1534.33,1,SAVE10,Montreal
+2020-09-20,66,Microwave,679.63,7,,Calgary
+2020-01-22,380,Microwave,1604.49,4,SPRING5,QuebecCity
+2023-11-30,325,Dining Table,1438.74,1,SPRING5,Calgary
+2015-11-12,68,VacuumCleaner,1700.64,3,WELCOME15,Toronto
+2023-02-19,48,Vacuum Cleaner,1633.5,2,save-10,Edmonton
+2023-06-05,404,Refrigerator,1150.85,2,SAVE10,Edmonton
+2020-01-22,271,Vacuum Cleaner,1315.86,2,SAVE10,Montreal
+2023-01-07,284,VacuumCleaner,616.4,1,HOLIDAY20,Ottawa
+2017-03-19,444,Microwave,521.46,3,FREESHIP,Montreal
+2017-12-24,148,Sofa,1486.27,5,SAVE10,Edmonton
+2020-02-27,28,VacuumCleaner,642.35,5,FREESHIP,Montreal
+2018-11-25,42,Desk Chair,1622.83,6,,Ottawa
+2015-05-14,288,VacuumCleaner,1972.31,2,,Kitchener
+2017-01-04,280,Sofa,997.52,1,save-10,Winnipeg
+2018-08-10,348,Blender,1982.33,3,FREESHIP,Toronto
+2016-05-03,35,Bookshelf,1643.16,3,SAVE10,Calgary
+2024-02-15,465,Bookshelf,1721.81,5,,Calgary
+2023-04-28,283,Coffee Maker,1092.89,1,SPRING5,Winnipeg
+2018-09-13,428,Vacuum Cleaner,1562.74,4,WELCOME15,Edmonton
+2021-01-05,312,Bookshelf,970.24,5,FREESHIP,Vancouver
+2015-02-25,376,Vacuum Cleaner,1068.66,6,WELCOME15,Ottawa
+2017-02-10,95,Refrigerator,927.9,3,HOLIDAY20,Ottawa
+2019-11-09,155,Bookshelf,1323.38,7,WELCOME15,Hamilton
+2018-10-29,94,Bookshelf,1070.7,1,save-10,Vancouver
+2017-08-14,328,Air Conditioner,1953.76,3,FREESHIP,Montreal
+2020-03-06,36,Microwave,908.98,5,HOLIDAY20,Toronto
+2016-07-20,42,Refrigerator,591.43,3,SPRING5,QuebecCity
+2015-10-28,259,Sofa,1484.23,4,SAVE10,Calgary
+2019-09-04,288,Sofa,999.36,7,SPRING5,Ottawa
+2016-03-18,113,Coffee Maker,1861.44,4,WELCOME15,Vancouver
+2016-11-04,350,Desk Chair,1469.93,2,save-10,Calgary
+2022-07-22,433,Bookshelf,806.72,4,SPRING5,Ottawa
+2022-11-13,403,Coffee Maker,1913.94,4,save-10,Montreal
+2021-01-08,367,Dining Table,1676.33,2,SPRING5,QuebecCity
+2022-07-24,113,Microwave,1717.32,2,save-10,QuebecCity
+2020-04-29,397,Blender,1409.14,7,SAVE10,Edmonton
+2017-01-06,328,Bookshelf,953.1,3,WELCOME15,Kitchener
+2024-05-04,24,Sofa,959.16,6,save-10,Montreal
+2017-12-20,84,Coffee Maker,855.27,6,SPRING5,Montreal
+2023-12-23,169,Dining Table,913.35,2,FREESHIP,Edmonton
+2015-03-15,398,Blender,950.68,3,HOLIDAY20,Kitchener
+2020-06-01,384,Sofa,1394.02,3,,Montreal
+2017-07-04,296,Desk Chair,1548.58,6,save-10,Kitchener
+2021-12-04,210,Refrigerator,1126.15,7,WELCOME15,Vancouver
+2019-05-04,414,Vacuum Cleaner,878.96,2,,Calgary
+2020-04-06,266,VacuumCleaner,1160.39,1,save-10,Calgary
+2021-09-17,75,Air Conditioner,703.3,5,,Kitchener
+2018-06-30,8,Bookshelf,1733.78,7,WELCOME15,Vancouver
+2019-05-06,132,Air Conditioner,1011.9,6,save-10,Vancouver
+2019-09-24,202,Refrigerator,1179.91,4,SPRING5,Montreal
+2018-10-29,442,Desk Chair,574.81,7,FREESHIP,Edmonton
+2022-05-19,392,Dining Table,1383.61,6,,Winnipeg
+2016-06-17,162,Blender,1455.59,3,,Winnipeg
+2022-05-26,87,Refrigerator,1231.13,4,SAVE10,Edmonton
+2021-01-24,186,VacuumCleaner,1401.28,4,SAVE10,Toronto
+2021-08-12,120,Microwave,1845.07,4,SAVE10,Kitchener
+2017-02-27,145,VacuumCleaner,1787.05,7,FREESHIP,Montreal
+2021-01-18,186,Sofa,1321.83,5,,Montreal
+2023-08-06,459,Sofa,677.73,4,save-10,Winnipeg
+2015-07-09,470,Blender,794.78,5,WELCOME15,Hamilton
+2019-08-11,200,Coffee Maker,1249.85,2,SPRING5,Edmonton
+2020-05-31,98,Coffee Maker,549.17,6,SPRING5,Montreal
+2016-02-11,214,Air Conditioner,902.79,1,SAVE10,QuebecCity
+2020-04-08,163,Desk Chair,676.92,7,HOLIDAY20,Ottawa
+2020-12-07,400,Air Conditioner,1999.87,3,HOLIDAY20,Calgary
+2021-06-15,10,Sofa,693.81,3,SPRING5,Calgary
+2021-10-13,154,Vacuum Cleaner,864.61,5,SAVE10,Montreal
+2017-11-23,370,Desk Chair,1363.85,2,HOLIDAY20,Kitchener
+2019-07-31,5,VacuumCleaner,786.38,6,FREESHIP,Calgary
+2021-04-12,363,Air Conditioner,1003.0,3,FREESHIP,Toronto
+2016-07-10,2,Coffee Maker,1151.98,5,FREESHIP,Calgary
+2019-03-31,84,VacuumCleaner,1852.25,3,,Montreal
+2021-09-15,435,Microwave,1480.07,6,,Winnipeg
+2015-04-26,293,Microwave,1277.72,5,HOLIDAY20,Winnipeg
+2015-02-10,386,Coffee Maker,1573.37,1,SAVE10,Kitchener
+2020-03-10,121,Desk Chair,1831.94,2,SAVE10,Vancouver
+2018-01-09,404,Bookshelf,1250.59,3,SAVE10,Winnipeg
+2020-06-11,53,Blender,1687.63,6,SPRING5,Montreal
+2021-02-27,1,Vacuum Cleaner,1778.04,3,WELCOME15,Winnipeg
+2018-11-05,53,Air Conditioner,798.67,2,WELCOME15,Winnipeg
+2021-03-21,101,Vacuum Cleaner,1499.42,1,HOLIDAY20,Montreal
+2016-12-04,442,Microwave,1144.58,6,HOLIDAY20,Toronto
+2016-01-06,269,Refrigerator,669.3,2,save-10,Hamilton
+2023-03-04,350,Microwave,1113.59,1,FREESHIP,Vancouver
+2021-04-20,42,Vacuum Cleaner,1415.97,3,HOLIDAY20,Vancouver
+2018-07-14,470,Sofa,553.62,2,,Ottawa
+2022-10-20,477,Desk Chair,965.05,7,FREESHIP,Vancouver
+2021-12-05,346,Bookshelf,992.93,7,,QuebecCity
+2015-07-08,346,Blender,1651.93,5,SPRING5,Kitchener
+2021-05-27,274,Bookshelf,1148.02,7,,Hamilton
+2020-12-18,467,Desk Chair,1575.0,6,HOLIDAY20,Toronto
+2023-11-12,253,Blender,1214.59,4,save-10,Montreal
+2016-03-29,264,Coffee Maker,1052.22,3,save-10,Ottawa
+2016-12-13,463,Air Conditioner,1722.48,4,FREESHIP,Kitchener
+2022-08-22,422,VacuumCleaner,1280.26,5,WELCOME15,Toronto
+2019-09-06,75,Bookshelf,505.3,2,save-10,Hamilton
+2022-08-10,81,VacuumCleaner,1327.86,2,,Edmonton
+2023-01-05,358,Blender,823.2,7,WELCOME15,Winnipeg
+2020-08-18,355,Air Conditioner,1366.84,6,SPRING5,Ottawa
+2016-12-12,300,Sofa,906.7,5,FREESHIP,Calgary
+2015-09-09,349,Blender,890.73,3,WELCOME15,Calgary
+2019-10-19,134,Vacuum Cleaner,1137.49,6,save-10,Toronto
+2019-09-12,391,Coffee Maker,531.86,3,,Toronto
+2016-05-25,343,Refrigerator,1572.63,6,SAVE10,Toronto
+2015-09-13,247,Microwave,1066.67,2,SAVE10,Ottawa
+2023-08-13,149,Coffee Maker,1428.0,2,SAVE10,Vancouver
+2020-04-05,198,Coffee Maker,1311.92,5,SPRING5,Winnipeg
+2015-03-28,44,VacuumCleaner,772.24,6,WELCOME15,Hamilton
+2017-05-30,6,Dining Table,566.17,5,SPRING5,Montreal
+2022-05-30,430,Microwave,1671.27,4,,Edmonton
+2020-10-27,487,Microwave,1708.39,2,WELCOME15,Hamilton
+2015-04-27,62,Microwave,804.77,6,save-10,Calgary
+2016-01-03,405,Sofa,1498.32,4,WELCOME15,Ottawa
+2016-04-18,184,Blender,1736.28,2,FREESHIP,Toronto
+2020-05-05,269,Blender,1755.69,4,FREESHIP,QuebecCity
+2016-05-11,248,Sofa,1823.96,6,WELCOME15,QuebecCity
+2021-12-03,96,Microwave,530.73,1,SPRING5,Edmonton
+2017-03-03,355,Sofa,1682.47,3,HOLIDAY20,Edmonton
+2019-09-24,92,Blender,1079.07,6,HOLIDAY20,QuebecCity
+2019-11-14,422,Air Conditioner,1163.42,5,,QuebecCity
+2016-06-20,310,VacuumCleaner,1547.24,5,SAVE10,Winnipeg
+2024-01-18,140,Blender,1918.59,7,WELCOME15,QuebecCity
+2016-08-05,215,Coffee Maker,816.25,3,WELCOME15,Montreal
+2015-04-19,408,Dining Table,658.33,4,save-10,QuebecCity
+2015-05-29,151,Dining Table,1302.08,7,,Ottawa
+2019-08-21,480,Sofa,1548.37,3,HOLIDAY20,Winnipeg
+2020-05-13,405,Desk Chair,1732.11,2,,QuebecCity
+2017-03-20,232,Refrigerator,1207.54,5,save-10,Vancouver
+2021-06-24,397,Refrigerator,1188.99,7,FREESHIP,Edmonton
+2016-02-21,130,Bookshelf,887.56,1,,Hamilton
+2019-08-15,19,Coffee Maker,1958.4,6,WELCOME15,Ottawa
+2022-11-28,69,Dining Table,1887.57,4,SAVE10,Calgary
+2018-01-08,142,VacuumCleaner,1507.75,7,FREESHIP,Calgary
+2021-10-30,248,Microwave,1441.68,3,SAVE10,Winnipeg
+2021-11-14,345,Coffee Maker,1017.51,1,save-10,Edmonton
+2018-06-07,186,Sofa,502.74,3,,Kitchener
+2018-10-01,40,Dining Table,524.87,7,FREESHIP,Edmonton
+2019-01-28,74,Bookshelf,1563.46,4,SAVE10,Calgary
+2019-12-05,469,Dining Table,916.33,5,save-10,Montreal
+2022-12-15,65,Refrigerator,1077.81,2,FREESHIP,Montreal
+2017-04-25,435,Microwave,1021.74,6,HOLIDAY20,Hamilton
+2022-07-21,483,Vacuum Cleaner,1552.14,3,,Montreal
+2018-08-28,97,Desk Chair,1891.37,1,HOLIDAY20,Calgary
+2019-12-26,394,Blender,976.31,7,save-10,Kitchener
+2022-01-30,2,Blender,1710.45,6,FREESHIP,Calgary
+2017-08-14,373,Blender,514.18,1,save-10,Winnipeg
+2015-04-08,290,Desk Chair,1416.59,3,,Kitchener
+2018-06-21,458,Blender,1096.92,7,,Winnipeg
+2018-03-06,165,Blender,1278.02,5,WELCOME15,QuebecCity
+2015-10-18,255,Desk Chair,1579.41,5,SAVE10,Kitchener
+2021-08-22,238,Vacuum Cleaner,1536.02,3,WELCOME15,QuebecCity
+2023-11-06,195,Refrigerator,1642.99,3,SPRING5,Toronto
+2020-12-24,207,Air Conditioner,1909.32,4,save-10,Ottawa
+2021-06-25,84,Microwave,652.53,2,save-10,QuebecCity
+2023-01-10,423,Blender,1560.49,2,HOLIDAY20,Montreal
+2017-03-18,11,Bookshelf,1516.46,6,SPRING5,Winnipeg
+2017-08-20,305,Refrigerator,897.36,5,SPRING5,Vancouver
+2015-09-01,60,Microwave,934.82,6,save-10,Calgary
+2015-05-19,253,Blender,591.61,5,HOLIDAY20,Toronto
+2018-02-27,369,Sofa,1350.73,1,SPRING5,Toronto
+2017-01-08,336,Dining Table,572.13,4,SAVE10,Kitchener
+2017-08-06,456,Sofa,1293.9,4,,Toronto
+2022-11-09,51,Refrigerator,608.29,6,save-10,QuebecCity
+2023-09-24,173,Coffee Maker,1806.32,7,FREESHIP,Edmonton
+2020-08-09,142,Microwave,1872.33,1,,Ottawa
+2018-02-12,25,Bookshelf,941.32,6,HOLIDAY20,QuebecCity
+2018-03-23,166,VacuumCleaner,584.31,3,HOLIDAY20,Kitchener
+2021-01-17,243,Desk Chair,1100.37,5,FREESHIP,Montreal
+2017-04-08,288,Desk Chair,1487.22,4,save-10,Winnipeg
+2023-05-01,359,Air Conditioner,647.02,4,HOLIDAY20,Winnipeg
+2018-03-25,310,Microwave,1018.45,2,SPRING5,Montreal
+2017-09-01,479,Vacuum Cleaner,601.91,2,HOLIDAY20,Montreal
+2021-01-26,76,Desk Chair,1630.45,5,,Kitchener
+2017-01-07,194,Vacuum Cleaner,1938.05,1,SPRING5,Ottawa
+2016-03-06,338,Desk Chair,713.97,1,SPRING5,Winnipeg
+2021-10-31,401,Air Conditioner,1697.55,1,HOLIDAY20,Kitchener
+2017-02-24,188,VacuumCleaner,973.1,6,FREESHIP,QuebecCity
+2017-04-26,15,VacuumCleaner,1527.93,3,,Vancouver
+2021-10-30,364,VacuumCleaner,549.21,1,save-10,Calgary
+2018-12-30,185,VacuumCleaner,890.63,6,,Ottawa
+2017-04-26,57,Blender,1010.8,6,,Ottawa
+2019-09-16,449,Desk Chair,1641.21,7,HOLIDAY20,Edmonton
+2018-04-18,150,Bookshelf,1096.73,3,SAVE10,QuebecCity
+2016-05-09,482,Dining Table,840.64,6,SAVE10,Toronto
+2015-09-10,345,Desk Chair,1932.77,1,save-10,Edmonton
+2023-05-19,368,Blender,680.37,6,,Winnipeg
+2016-07-04,94,Dining Table,1312.68,2,SAVE10,Vancouver
+2019-12-11,427,Blender,1943.66,6,WELCOME15,Winnipeg
+2017-09-17,435,Desk Chair,1194.26,3,SPRING5,Kitchener
+2015-08-04,315,Dining Table,594.42,4,save-10,Toronto
+2017-06-25,261,Bookshelf,917.6,2,SPRING5,Winnipeg
+2021-03-07,119,Vacuum Cleaner,536.78,2,save-10,Vancouver
+2018-05-13,497,Coffee Maker,1547.0,3,SAVE10,Vancouver
+2016-07-04,217,VacuumCleaner,1748.32,4,SAVE10,Toronto
+2017-03-17,69,VacuumCleaner,1051.09,6,FREESHIP,Kitchener
+2018-04-28,76,Dining Table,1828.18,5,WELCOME15,Toronto
+2019-01-23,176,Blender,809.07,7,save-10,Toronto
+2015-07-17,159,VacuumCleaner,1303.41,7,,Winnipeg
+2023-11-05,439,VacuumCleaner,1310.39,1,SAVE10,QuebecCity
+2023-10-31,205,Bookshelf,1969.76,2,WELCOME15,Winnipeg
+2015-08-25,126,VacuumCleaner,934.97,7,HOLIDAY20,Toronto
+2022-12-03,60,Air Conditioner,794.27,5,save-10,Winnipeg
+2020-03-26,472,Sofa,1682.31,6,SAVE10,Vancouver
